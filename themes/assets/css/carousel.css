@@ -166,7 +166,7 @@ background-image: linear-gradient(to top, #FFFFFF 0%, #E9E5DC 100%);
 
 
 .introSection h3{
-  font-family: offside;
+  font-family: 'Offside', cursive;
 }
 
 
@@ -196,7 +196,7 @@ background-image: linear-gradient(to top, #FFFFFF 0%, #E9E5DC 100%);
 
 
 .itemsTitle{
-  font-family: offside;
+  font-family: 'Offside', cursive;
   border-bottom: 1px solid #e7e7e7;
   padding: 8px 30px;
   font-size: 2em;
@@ -222,7 +222,7 @@ footer{padding:18px 0; background:#111; color:#fff;}
 .cntr{
 
   text-align:center;
-  font-family: offside;
+  font-family: 'Offside', cursive;
 }
 
 
@@ -321,7 +321,7 @@ footer{padding:18px 0; background:#111; color:#fff;}
 
 .box > .icon:hover > .info { background: #EC8445;
   border-color: #e0e0e0; color: white; }
-.box > .icon > .info > h3.title { font-family: "offside" !important; font-size: 1.4em; color: #222; font-weight: 500; }
+.box > .icon > .info > h3.title { font-family: font-family: 'Offside', cursive; !important; font-size: 1.4em; color: #222; font-weight: 500; }
 .box > .icon > .info > p { font-family: "Lato" !important; font-size: 1.1em; color: #666; line-height: 1.5em; margin: 20px;}
 .box > .icon:hover > .info > h3.title, .box > .icon:hover > .info > p, .box > .icon:hover > .info > .more > a { color: #222; }
 .box > .icon > .info > .more a { font-family: "Lato",sans-serif !important; font-size: 12px; color: #333333; line-height: 12px; text-transform: uppercase; text-decoration: none; }
